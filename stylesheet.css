@@ -1,0 +1,72 @@
+div {
+border: 1px solid black;
+}
+
+    #header{
+        background-color: darkslategrey;
+        background-image: url(https://cdn.pixabay.com/photo/2016/11/14/02/55/asphalt-1822448_1280.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+        text-align: center;
+        margin: 20px auto;
+        color: #DE1818;
+        padding: 10px;
+    }
+    #navBar{
+        width: 920px;
+        text-align: center;
+        margin: 20px auto;
+        color: #DE1818;
+    }
+    #text{
+        width: 920px;
+        text-align: center;
+        margin: 20px auto;
+        font color: blue;
+    }
+    #section{
+        width: 920px;
+        text-align: center;
+        margin: 20px auto;
+    }
+    #footer{
+        background color: black;
+        background-image: url(https://cdn.pixabay.com/photo/2018/04/22/14/15/road-3341140_1280.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+        text-align: center;
+        color: #DE1818;
+        clear: both;
+        padding: 5px;
+    }
+    h1 {
+		font color: white;
+		font-family: Garamond;
+		font-size: 500%;
+      }
+
+    h2 {
+		font color: white;
+		font-family: Garamond;
+		font-size: 130%;
+    }
+    h3{
+        font color: black;
+        font-family: Garamond;
+        font-size: 110%;
+    }
+    h4{
+        font color: "‎#DE1818";
+        font-size: 200%;
+        font-family: sans-serif;
+    }
+    h5{
+        font color: black;
+        font-family: Garamond;
+        font-size: 100%;
+    }
+    h6{
+        font color: white;
+        font-family: Garamond;
+        font-size: 100%;
+    }
