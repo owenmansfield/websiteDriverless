@@ -9,33 +9,43 @@ border: 1px solid black;
 		background-size: cover;
         text-align: center;
         margin: 20px auto;
-        color: #DE1818;
+        color: white;
+        text-shadow: 1px 1px 2px black, 0 0 25px #DE1818, 0 0 5px #DE1818;
         padding: 10px;
     }
     #navBar{
-        width: 920px;
+        width: 950px;
         text-align: center;
         margin: 20px auto;
         color: #DE1818;
+        font color: #DE1818;
     }
     #text{
-        width: 920px;
+        width: 950px;
         text-align: center;
-        margin: 20px auto;
-        font color: blue;
+        margin: 25px auto;
+        font color: #DE1818;
+    }
+    #textLeft{
+        width: 950px;
+        text-align: left;
+        margin: 25px auto;
+        font color: #DE1818;
     }
     #section{
-        width: 920px;
+        width: 950px;
         text-align: center;
         margin: 20px auto;
+        padding: 25px;
     }
     #footer{
         background color: black;
-        background-image: url(https://cdn.pixabay.com/photo/2018/04/22/14/15/road-3341140_1280.jpg);
+        background-image: url(https://preview.ibb.co/i0ULin/Screen_Shot_2018_05_04_at_2_20_37_PM.png);
 		background-repeat: no-repeat;
 		background-size: cover;
         text-align: center;
-        color: #DE1818;
+        color: white;
+        text-shadow: 1px 1px 2px black, 0 0 25px #DE1818, 0 0 5px #DE1818;
         clear: both;
         padding: 5px;
     }
@@ -46,27 +56,33 @@ border: 1px solid black;
       }
 
     h2 {
-		font color: white;
+		font color: #DE1818;
 		font-family: Garamond;
 		font-size: 130%;
     }
-    h3{
+    h3 {
         font color: black;
         font-family: Garamond;
         font-size: 110%;
     }
-    h4{
+    h4 {
         font color: "‎#DE1818";
-        font-size: 200%;
+        font-size: 150%;
         font-family: sans-serif;
     }
-    h5{
+    h5 {
         font color: black;
         font-family: Garamond;
         font-size: 100%;
     }
-    h6{
+    h6 {
         font color: white;
         font-family: Garamond;
         font-size: 100%;
+    }
+    ul {
+    list-style-position: inside;
+    }
+    ol {
+    list-style-position: inside;
     }
