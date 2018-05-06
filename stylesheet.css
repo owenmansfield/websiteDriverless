@@ -25,12 +25,14 @@ border: 1px solid black;
         text-align: center;
         margin: 25px auto;
         font color: #DE1818;
+        padding: 25px;
     }
     #textLeft{
         width: 950px;
         text-align: left;
         margin: 25px auto;
         font color: #DE1818;
+        padding: 25px;
     }
     #section{
         width: 950px;
@@ -86,3 +88,15 @@ border: 1px solid black;
     ol {
     list-style-position: inside;
     }
+
+    .button {
+    font: bold 12px Garamond;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #DE1818;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
